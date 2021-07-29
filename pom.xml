@@ -13,6 +13,8 @@
 
     <modules>
         <module>spring-boot-freemarker</module>
+        <module>spring-boot-mybatis-plus</module>
+        <module>spring-boot-restful</module>
     </modules>
 
     <build>

@@ -1,0 +1,9 @@
+
+myname: hangzhou
+age: ${random.int[0,100]}
+remark: hello,my name is ${myname},age is ${age}
+user:
+  address: hangzhou,china
+spring:
+  profiles:
+    active: dev

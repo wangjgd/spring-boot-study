@@ -1,0 +1,6 @@
+
+name: hangzhou
+age: ${random.int[0,100]}
+remark: hello,my name is ${name},age is ${age}
+user:
+  address: tianjin,china
